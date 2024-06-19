@@ -5,6 +5,7 @@ const Cart = () => {
   return (
     <div>
       <CartItems />
+      <p>eheheh</p>
     </div>
   )
 }
